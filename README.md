@@ -14,11 +14,10 @@ Pense nisso como um **jardim digital de notas bíblicas**: algo que cresce de f
 
 ## Screenshots
 
-![[screenshot_1.png]]
-![[screenshot_2.png]]
-![[screenshot_3.png]]
-
-![[screenshot_4.png]]
+![Referências cruzadas de Isaías](pictures/screenshot_1.png)
+![Referências cruzadas por texto e categoria de alguns livros](pictures/screenshot_2.png)
+![Excerto de Is1](pictures/screenshot_3.png)
+![Excerto de Is1](pictures/screenshot_4.png)
 
 ---
 
