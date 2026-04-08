@@ -1,0 +1,42 @@
+properties:
+  note.ano:
+    displayName: Ano
+  note.localizacao:
+    displayName: Localização
+  note.autor:
+    displayName: Autor
+  note.lingua:
+    displayName: Língua
+  note.destinatarios:
+    displayName: Destinatários
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("Estudos bíblicos")
+        - file.ext == "md"
+    order:
+      - file.name
+      - ano
+      - localizacao
+      - autor
+      - lingua
+      - destinatarios
+      - Gênero Macro
+      - Gênero Específico
+      - Sub-Tipo
+    sort:
+      - property: ano
+        direction: ASC
+      - property: localizacao
+        direction: ASC
+      - property: lingua
+        direction: DESC
+      - property: destinatarios
+        direction: ASC
+      - property: formula.Novo ou Velho Testamento
+        direction: ASC
+    columnSize:
+      note.ano: 57
+      note.Gênero Específico: 100
