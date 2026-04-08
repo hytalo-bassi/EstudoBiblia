@@ -14,7 +14,7 @@ views:
     name: Table
     filters:
       and:
-        - file.path.startsWith("Estudos bíblicos")
+        - file.path.startsWith("1VT") || file.path.startsWith("2NT")
         - file.ext == "md"
     order:
       - file.name
@@ -34,8 +34,6 @@ views:
       - property: lingua
         direction: DESC
       - property: destinatarios
-        direction: ASC
-      - property: formula.Novo ou Velho Testamento
         direction: ASC
     columnSize:
       note.ano: 57
