@@ -23,6 +23,15 @@ Sub-Tipo:
 
 ![[Isaiah 1.18 Art Print – Winter Landscape, Symbolic Artwork - McKenzie.avif]]
 *Isaiah 1:18 Art Print – Winter Landscape, Symbolic Artwork - McKenzie*
+
+## Pontos principais
+
+1. Deus não ignora a rebeldia
+2. O pecado traz corrupção total
+3. Deus rejeita religião sem transformação
+4. O verdadeiro arrependimento é prático
+5. Deus oferece perdão e restauração completa
+6. Existe o caminho da obediência com vida e rebeldia com morte
 ## O lamento
 > [!quote]
 > 1Visão de Isaías, filho de Amoz, que ele teve a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá. 2Ouvi, ó céus, e dá ouvidos, ó terra, porque o Senhor é quem fala: <font color="red">Criei filhos e os engrandeci, mas eles estão revoltados contra mim. 3O boi conhece o seu possuidor, e o jumento, o dono da sua manjedoura; mas Israel não tem conhecimento, o meu povo não entende</font>. 4Ai desta nação pecaminosa, povo carregado de iniquidade, raça de malignos, filhos corruptores; abandonaram o Senhor, blasfemaram do Santo de Israel, voltaram para trás. 5Por que haveis de ainda ser feridos, visto que continuais em rebeldia? Toda a cabeça está doente, e todo o coração, enfermo. 6Desde a planta do pé até à cabeça não há nele coisa sã, senão feridas, contusões e chagas inflamadas, umas e outras não espremidas, nem atadas, nem amolecidas com óleo. 7A vossa terra está assolada, as vossas cidades, consumidas pelo fogo; a vossa lavoura os estranhos devoram em vossa presença; e a terra se acha devastada como numa subversão de estranhos. 8A filha de Sião é deixada como choça na vinha, como palhoça no pepinal, como cidade sitiada. 9Se o Senhor dos Exércitos não nos tivesse deixado alguns sobreviventes, já nos teríamos tornado como Sodoma e semelhantes a Gomorra.
@@ -117,7 +126,18 @@ Sobre justiça para os orfãos e as viúvas, também temos de forma muito semelh
 
 O v. 18 nos faz um chamado ao arrependimento e uma promessa: nossas vestes serão brancas como a lã. Para o Pai, o pecado deixa uma mancha vermelha em nossas vestes; quando pecamos nos banhamos em sangue, e Deus vê isso, e não apenas vê, mas odeia a iniquidade e essa mancha vermelha em nossas vestes (Salmos 5:4). Essa promessa se cumpre em Cristo Jesus, que por meio do seu sacrifício nos tornou com as vestes brancas como a neve [[Ap 7]].
 
-- [ ] #task  adicionar Key Takeaways, tabela de tipologia, e timeline [Gemini](https://gemini.google.com/share/f4b07a878ca1)
+O v. 19 reforça um tema também muito comum na bíblia, que obedecer traz a prosperidade e benção. Na verdade, esse era um tema que muitos já sabiam e muito retratado na bíblia, como podemos ver em [[Jó 36]], [[Sl 81]] e [[Lv 26]] sendo uma lista maior das bençãos de Deus. Todos estes textos trazem um padrão muito claro: ouvir a Deus -> obedecer -> prosperidade. Além disso, essa passagem também é consequência direta de [[Dt 30]], onde vemos que existem dois caminhos: O Caminho da Vida e o Caminho da Morte:
+
+- **O Caminho da Vida** é por onde anda aquele que é fiel a Deus e segue consistentemente as suas ordens e mandamentos. A Justiça de Deus o recompensará devidamente.
+- **O Caminho da Morte** é por onde anda aquele que não é fiel a Deus e segue seus próprios desejos, vontades, ídolos e anseios; quebrando as ordenanças de Deus conforme assim lhe favorece. A Justiça de Deus o punirá devidamente.
+
+Portanto, esse tema se completa plenamente no v. 20; onde o caminho da morte é muito bem retratado: vocês serão devorados pela Espada. Essa Espada é, novamente, a Justiça de Deus. 
+
+Em Levíticos 26:25, o Senhor traria a Espada sobre o seu povo, caso eles quebrassem a cláusula contratual da Sua Aliança, como reforçado em Deuteronômio 28:25 e [[Ne 9]]. Não era meramente uma ação aleatória provocada pela raiva momentânea de um homem, mas sim a aplicação justa de Deus para o Seu povo.
+
+Por último, o profeta conclui colocando o selo de garantia de que irá acontecer, pois foi o Senhor que disse. Essa sequência de palavras é um código que garante que aquilo que foi dito irá acontecer da forma que foi dito; vemos outro exemplo disso também em [[Is 40]].
+
+- [ ] #task  adicionar tabela de tipologia, e timeline [Gemini](https://gemini.google.com/share/f4b07a878ca1)
 
 
-#lavaiEPurificai #oculteiOsOlhos #hipocrisia #religiosidadeVazia #misericórdia #remanescente #rebeldia #pecado #provisão #obediência #justiça  #repreensão 
+#lavaiEPurificai #oculteiOsOlhos #hipocrisia #religiosidadeVazia #misericórdia #remanescente #rebeldia #pecado #provisão #obediência #justiça  #repreensão #bençãos

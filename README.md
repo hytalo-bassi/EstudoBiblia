@@ -179,13 +179,13 @@ git push origin minha-contribuicao
 ```
 
 
-### Sobre denominações`
+### Sobre denominações
 
 Estas notas foram feitas para serem lidas à luz da Escritura puramente, usando toda a Bíblia como sua própria fonte de interpretação. O ideal é que o conteúdo **não seja enviesado para nenhuma denominação cristã** — seja presbiteriana, assembleiana ou qualquer outra. O foco está no texto e no seu contexto histórico-literário, não em tradições confessionais específicas.`
 
-### Sobre a tradução utilizada`
+### Sobre a tradução utilizada
 
-As notas utilizam essencialmente a **NVI (Nova Versão Internacional)**. Em alguns momentos, pode ser necessário consultar o texto original com o auxílio da [Concordância de Strong](https://pt.wikipedia.org/wiki/Concordância_de_Strong) para compreender nuances de palavras em Hebraico ou Grego.`
+As notas utilizam essencialmente a **NVI (Nova Versão Internacional)**. Em alguns momentos, pode ser necessário consultar o texto original com o auxílio da [Concordância de Strong](https://pt.wikipedia.org/wiki/Concordância_de_Strong) para compreender nuances de palavras em Hebraico ou Grego.
 
 ### Boas práticas
 
