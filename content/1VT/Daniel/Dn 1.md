@@ -22,12 +22,6 @@ Sub-Tipo:
 
 ![[daniel_refuses_kings_food_wine.webp|Isaiah 1.18 Art Print – Winter Landscape, Symbolic Artwork - McKenzie.avif]]
 *Daniel Refusing the King’s Meat and Wine*
-
-## Pontos principais
-
-1. Ponto principal 1
-2. Ponto principal 2
-3. 3...
 ## Contexto
 
 > [!quote]
