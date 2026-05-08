@@ -1,0 +1,1 @@
+Israel é o nome dado por Deus à [[Jacó]] depois dele ter lutado contra Deus, como vemos em [[Gn 32]]
